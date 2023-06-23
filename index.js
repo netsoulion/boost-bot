@@ -32,4 +32,4 @@ bot.on('message', async msg => {
   return bot.sendMessage(chatId, 'Я Вас не розумію')
 });
 
-console.log('test')
+console.log('test');
